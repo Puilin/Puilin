@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   
   [![Puilin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puilin&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=CEECF5&height=150&section=footer"/>
 </div>
 
 <!--
